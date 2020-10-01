@@ -6,3 +6,4 @@ Berkembangnya keahlian teknis khususnya pemrograman komputer di wilayah Penajam 
 
 ## Misi
 Memperkenalkan sejarah sistem operasi linux
+Membangun mindset engineer pada diri anggota
