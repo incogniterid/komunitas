@@ -3,3 +3,6 @@ Repository ini merupakan landing page dari website resmi Komunitas Programmer Pe
 
 ## Visi
 Berkembangnya keahlian teknis khususnya pemrograman komputer di wilayah Penajam Paser Utara
+
+## Misi
+Memperkenalkan sejarah sistem operasi linux
